@@ -52,9 +52,15 @@ menu:
     - name: Архив
       url: /archives/
       weight: 1
+    - name: Tag
+      url: /tag/
+      weight: 2
+    - name: Категории
+      url: /category/
+      weight: 3
     - name: "\U0001F50D"
       url: /search/
-      weight: 2
+      weight: 4
     - name: "Как купить этот домен"
       url: https://www.nic.ru/shop/adora.ru
-      weight: 3
+      weight: 5
