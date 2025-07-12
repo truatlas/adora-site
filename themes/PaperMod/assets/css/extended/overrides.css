@@ -1,7 +1,16 @@
-.entry-cover img,
-.post-entry img {
+/* Для обложек постов (в списке) */
+.entry-cover img {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: attr(width) / attr(height);
+  aspect-ratio: attr(width number) / attr(height number);
+  object-fit: cover;
+}
+
+/* Для изображений внутри постов */
+.post-content img,
+.entry-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
