@@ -32,6 +32,8 @@ params:
   assets:
     favicon: /favicon.ico
     disableHLJS: true
+  cover:
+    responsiveImages: true
 markup:
   highlight:
     codeFences: true

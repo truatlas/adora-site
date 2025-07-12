@@ -99,6 +99,8 @@
     border-radius: var(--radius);
     width: 100%;
     height: auto;
+    aspect-ratio: 3 / 2; /* или другой реальный, например 4 / 3 */
+    display: block;
 }
 
 .entry-cover a {
