@@ -97,8 +97,6 @@
 
 .entry-cover img {
     border-radius: var(--radius);
-    aspect-ratio: 4/3;
-    width: 100%;
     height: auto;
 }
 
