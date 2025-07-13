@@ -10,7 +10,7 @@ taxonomies:
 params:
   description: Для детей и взрослых
   defaultTheme: auto
-  disableThemeToggle: false
+  disableThemeToggle: true
   showShareButtons: false
   showReadingTime: true
   showToc: true
