@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Moravska Ustredna Brno
-  image: /wp-content/uploads/2023/09/moravska-ustredna-brno.png
+  image: /wp-content/uploads/2023/09/moravska-ustredna-brno.webp
 date: "2023-09-12T12:12:28+00:00"
 guid: https://www.adora.ru/?p=2081
 title: Игрушки Moravska Ustredna Brno

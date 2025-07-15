@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Отдых на яхте "Адора" на Мальдивах
-  image: /wp-content/uploads/2023/09/adora-yacht.png
+  image: /wp-content/uploads/2023/09/adora-yacht.webp
 date: "2023-09-01T14:57:39+00:00"
 guid: https://www.adora.ru/?p=1716
 tag:

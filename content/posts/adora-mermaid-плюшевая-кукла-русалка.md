@@ -5,7 +5,7 @@ category:
   - куклы
 cover:
   alt: Adora Mermaid
-  image: /wp-content/uploads/2023/09/adora-mermaid.png
+  image: /wp-content/uploads/2023/09/adora-mermaid.webp
 date: "2023-09-11T06:50:07+00:00"
 guid: https://www.adora.ru/?p=2012
 tag:

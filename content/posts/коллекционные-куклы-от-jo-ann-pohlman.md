@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Joann Polman
-  image: /wp-content/uploads/2023/09/joann-polman.png
+  image: /wp-content/uploads/2023/09/joann-polman.webp
 date: "2023-09-11T14:15:44+00:00"
 guid: https://www.adora.ru/?p=2019
 title: Коллекционные куклы от Jo Ann Pohlman

@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Adora Blue
-  image: /wp-content/uploads/2023/09/adora-blue.png
+  image: /wp-content/uploads/2023/09/adora-blue.webp
 date: "2023-09-21T16:37:37+00:00"
 guid: https://www.adora.ru/?p=1917
 tag:

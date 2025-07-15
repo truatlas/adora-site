@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Mikuláš Reda
-  image: /wp-content/uploads/2023/09/mikulas-reda.png
+  image: /wp-content/uploads/2023/09/mikulas-reda.webp
 date: "2023-09-16T13:39:20+00:00"
 guid: https://www.adora.ru/?p=2217
 title: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'

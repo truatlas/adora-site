@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Marie Osmond Baby Abby Tiny Tot
-  image: /wp-content/uploads/2023/09/marie-osmond.png
+  image: /wp-content/uploads/2023/09/marie-osmond.webp
 date: "2023-09-11T14:04:49+00:00"
 guid: https://www.adora.ru/?p=2016
 title: Авторские куклы Marie Osmond

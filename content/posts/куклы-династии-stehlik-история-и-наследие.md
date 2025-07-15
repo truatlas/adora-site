@@ -4,7 +4,7 @@ category:
   - чехия
 cover:
   alt: Куклы династии Stehlik
-  image: /wp-content/uploads/2023/09/6ac29e16-537f-4ace-8a1f-efe44b1020e5.png
+  image: /wp-content/uploads/2023/09/6ac29e16-537f-4ace-8a1f-efe44b1020e5.webp
 date: "2023-09-08T11:54:38+00:00"
 guid: https://www.adora.ru/?p=1901
 title: 'Куклы династии Stehlik: история и наследие'

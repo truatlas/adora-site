@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Josef Dosedl
-  image: /wp-content/uploads/2023/09/josef-dosedl.png
+  image: /wp-content/uploads/2023/09/josef-dosedl.webp
 date: "2023-09-09T11:26:34+00:00"
 guid: https://www.adora.ru/?p=1952
 title: 'Куклы Josef Dosedl: Искусство и Долгая История'

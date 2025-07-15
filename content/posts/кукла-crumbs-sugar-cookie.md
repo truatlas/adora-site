@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Lalaloopsy Crumbs Sugar Cookie
-  image: /wp-content/uploads/2023/08/lalaloopsy.png
+  image: /wp-content/uploads/2023/08/lalaloopsy.webp
 date: "2023-08-26T11:23:01+00:00"
 guid: https://www.adora.ru/?p=481
 tag:

@@ -4,7 +4,7 @@ category:
   - выставки-кукол-и-игрушек
 cover:
   alt: искусство куклы
-  image: /wp-content/uploads/2023/09/iskusstvo-kukly.png
+  image: /wp-content/uploads/2023/09/iskusstvo-kukly.webp
 date: "2023-09-12T10:17:16+00:00"
 guid: https://www.adora.ru/?p=2048
 tag:

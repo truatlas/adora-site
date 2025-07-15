@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Reborn Jessica Schenk
-  image: /wp-content/uploads/2023/09/jessica-schenk.png
+  image: /wp-content/uploads/2023/09/jessica-schenk.webp
 date: "2023-09-11T14:30:04+00:00"
 guid: https://www.adora.ru/?p=2022
 title: Реборн Jessica Schenk

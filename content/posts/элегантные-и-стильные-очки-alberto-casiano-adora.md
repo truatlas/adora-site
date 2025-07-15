@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Adora
-  image: /wp-content/uploads/2023/09/adora.png
+  image: /wp-content/uploads/2023/09/adora.webp
 date: "2023-09-04T10:31:22+00:00"
 guid: https://www.adora.ru/?p=1770
 tag:
