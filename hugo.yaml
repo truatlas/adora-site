@@ -3,13 +3,13 @@ languageCode: ru-RU
 title: Игрушки для детей и взрослых
 theme: PaperMod
 env: production
-copyright: '© 2025 Домен Adora.ru продается. Купить недорого. 18+. | Политика конфиденциальности'
+copyright: '© 2025 Домен Adora.ru продается. [Купить недорого.](/privacy-policy/) 18+. | Политика конфиденциальности'
 taxonomies:
   category: category
   tag: tag
 params:
   description: Для детей и взрослых
-  defaultTheme: auto
+  defaultTheme: light
   disableThemeToggle: true
   showShareButtons: false
   showReadingTime: true
@@ -59,12 +59,11 @@ menu:
     - name: Tag
       url: /tag/
       weight: 2
-    - name: Категории
-      url: /category/
-      weight: 3
     - name: "\U0001F50D"
       url: /search/
-      weight: 4
+      weight: 3
     - name: "Как купить этот домен"
       url: https://www.nic.ru/shop/adora.ru
-      weight: 5
+      weight: 4
+imaging:
+  Resize: "600x webp"
