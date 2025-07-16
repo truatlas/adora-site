@@ -1,9 +1,9 @@
 {{- with .cxt}} {{/* Apply proper context from dict */}}
+  {{- $isFirstEntry := eq $.entryClass "first-entry" }}
+  {{- $loading := cond $.IsSingle "eager" (cond $isFirstEntry "eager" "lazy") }}
+  {{- $fetchpriority := cond $isFirstEntry "high" "" }}
 {{- if (and .Params.cover.image (not $.isHidden)) }}
 <figure class="entry-cover">
-    {{- $isFirstEntry := in ($.cxt.OutputFormats.Get "html").Permalink "first-entry" }}
-    {{- $loading := cond $.IsSingle "eager" (cond $isFirstEntry "eager" "lazy") }}
-    {{- $fetchpriority := cond $isFirstEntry "high" "" }}
     {{- $addLink := (and site.Params.cover.linkFullImages $.IsSingle) }}
     {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
     {{- $alt := (.Params.cover.alt | default .Params.cover.caption | plainify) }}
@@ -33,7 +33,7 @@
     {{- if $cover -}}
         {{/* i.e it is present in page bundle */}}
         {{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
-            <img loading="{{$loading}}"
+            <img loading="{{$loading}}"{{ with $fetchpriority }} fetchpriority="{{ . }}"{{ end }}
                 srcset='{{- range $size := $sizes -}}
                             {{- if (ge $cover.Width $size) }}
                                 {{- printf "%s %s" (($cover.Resize (printf "%sx" $size)).Permalink) (printf "%sw," $size) }}
