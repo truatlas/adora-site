@@ -3,16 +3,17 @@ author: olomouc
 category:
   - игрушки
 cover:
-  alt: Дикие Скричеры. Машинка - трансформер  Screechers Wild
+  alt: Игрушка Машинка-трансформер Screechers Wild Дикие Скричеры
   image: /wp-content/uploads/2023/09/screechers-wild.jpg
 date: "2023-09-03T13:00:50+00:00"
-guid: https://www.adora.ru/?p=1758
 tag:
   - аниме
   - игрушки-для-мальчиков
   - китай
   - машинки
 title: Игрушка Машинка-трансформер Screechers Wild Дикие Скричеры
+description: Игрушка Машинка-трансформер Screechers Wild Дикие Скричеры
+keywords: Игрушка Машинка-трансформер Screechers Wild Дикие Скричеры
 url: /screechers_wild/
 
 ---

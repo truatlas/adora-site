@@ -3,10 +3,9 @@ author: morava
 category:
   - куклы
 cover:
-  alt: китайские игрушки Яо
+  alt: Kуклы Яо
   image: /wp-content/uploads/2023/08/yao-dolls.jpg
 date: "2023-08-18T13:31:49+00:00"
-guid: https://www.adora.ru/?p=867
 tag:
   - вьетнам
   - игрушки-народов-лаоса
@@ -14,6 +13,8 @@ tag:
   - китай
   - мяо-яо
 title: Kуклы Яо
+description: Kуклы Яо
+keywords: Kуклы Яо
 url: /kukly-yao/
 
 ---

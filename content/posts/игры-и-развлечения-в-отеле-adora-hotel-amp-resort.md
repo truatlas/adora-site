@@ -3,15 +3,16 @@ author: malta
 category:
   - адора
 cover:
-  alt: Отель Адора в Турции
+  alt: Игры и Развлечения в Отеле Adora Hotel &amp; Resort
   image: /wp-content/uploads/2023/08/adora-hotel-resort.jpg
 date: "2023-08-19T18:26:12+00:00"
-guid: https://www.adora.ru/?p=954
 tag:
   - адора
   - праздник
   - турция
 title: Игры и Развлечения в Отеле Adora Hotel &amp; Resort
+description: Игры и Развлечения в Отеле Adora Hotel &amp; Resort
+keywords: Игры и Развлечения в Отеле Adora Hotel &amp; Resort
 url: /adora-hotel-resort/
 
 ---

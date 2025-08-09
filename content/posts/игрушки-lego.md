@@ -3,16 +3,17 @@ author: morava
 category:
   - игрушки
 cover:
-  alt: lego
+  alt: Игрушки Lego
   image: /wp-content/uploads/2023/08/lego.jpg
 date: "2023-08-03T22:51:11+00:00"
-guid: https://adora.ru/?p=260
 tag:
   - коллекционные-игрушки
   - конструктор
   - пластиковые-игрушки
   - развитие-моторики
 title: Игрушки Lego
+description: Игрушки Lego
+keywords: Игрушки Lego
 url: /lego/
 
 ---

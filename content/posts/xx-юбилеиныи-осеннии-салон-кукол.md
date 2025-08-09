@@ -3,13 +3,14 @@ author: morava
 category:
   - выставки-кукол-и-игрушек
 cover:
-  alt: doll
+  alt: XX ЮБИЛЕЙНЫЙ ОСЕННИЙ САЛОН КУКОЛ
   image: /wp-content/uploads/2023/09/doll-1-jpg.webp
 date: "2023-09-27T17:44:01+00:00"
-guid: https://www.adora.ru/?p=2776
 tag:
   - художественные-куклы
 title: XX ЮБИЛЕЙНЫЙ ОСЕННИЙ САЛОН КУКОЛ
+description: XX ЮБИЛЕЙНЫЙ ОСЕННИЙ САЛОН КУКОЛ
+keywords: XX ЮБИЛЕЙНЫЙ ОСЕННИЙ САЛОН КУКОЛ
 url: /xx-yubilejnyj-osennij-salon-kukol/
 
 ---

@@ -3,13 +3,14 @@ author: malta
 category:
   - игрушки
 cover:
-  alt: Lego
+  alt: Lego человечки
   image: /wp-content/uploads/2023/09/lego.jpg
 date: "2023-09-12T11:28:21+00:00"
-guid: https://www.adora.ru/?p=2069
 tag:
   - конструктор
 title: Lego человечки
+description: Lego человечки
+keywords: Lego человечки
 url: /lego-chelovechki/
 
 ---

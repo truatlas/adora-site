@@ -6,10 +6,11 @@ cover:
   alt: Adora Crooks
   image: /wp-content/uploads/2023/09/adora-crooks.webp
 date: "2023-09-12T09:45:30+00:00"
-guid: https://www.adora.ru/?p=2052
 tag:
   - фарфор
 title: Adora Crooks
+description: Adora Crooks
+keywords: Adora Crooks
 url: /adora-crooks/
 
 ---

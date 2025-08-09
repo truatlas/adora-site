@@ -3,11 +3,12 @@ author: olomouc
 category:
   - куклы
 cover:
-  alt: Josef Dosedl
+  alt: 'Куклы Josef Dosedl: Искусство и Долгая История'
   image: /wp-content/uploads/2023/09/josef-dosedl.webp
 date: "2023-09-09T11:26:34+00:00"
-guid: https://www.adora.ru/?p=1952
 title: 'Куклы Josef Dosedl: Искусство и Долгая История'
+description: 'Куклы Josef Dosedl: Искусство и Долгая История'
+keywords: 'Куклы Josef Dosedl: Искусство и Долгая История'
 url: /kukly-josef-dosedl-iskusstvo-i-dolgaya-istoriya/
 
 ---

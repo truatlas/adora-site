@@ -4,10 +4,9 @@ category:
   - адора
   - куклы
 cover:
-  alt: коллекционная кукла Адора
+  alt: Dolls ADORA
   image: /wp-content/uploads/2023/08/adora-1.jpg
 date: "2023-08-12T15:56:28+00:00"
-guid: https://www.adora.ru/?p=573
 tag:
   - адора
   - европа
@@ -18,6 +17,8 @@ tag:
   - сша
   - фарфор
 title: Dolls ADORA
+description: Dolls ADORA
+keywords: Dolls ADORA
 url: /dolls_adora/
 
 ---

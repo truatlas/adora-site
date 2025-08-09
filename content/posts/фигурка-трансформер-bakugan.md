@@ -3,15 +3,16 @@ author: malta
 category:
   - игрушки
 cover:
-  alt: Bakugan трансформер коллекционного издания
+  alt: Фигурка-трансформер Bakugan
   image: /wp-content/uploads/2023/09/bakugan.jpg
 date: "2023-09-04T15:04:01+00:00"
-guid: https://www.adora.ru/?p=1813
 tag:
   - игрушки-для-детей
   - пластиковые-игрушки
   - современные-игрушки
 title: Фигурка-трансформер Bakugan
+description: Фигурка-трансформер Bakugan
+keywords: Фигурка-трансформер Bakugan
 url: /bakugan/
 
 ---

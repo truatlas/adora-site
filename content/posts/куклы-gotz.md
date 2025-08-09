@@ -3,10 +3,9 @@ author: morava
 category:
   - куклы
 cover:
-  alt: немецкая коллекционная кукла ручной работы Gotz
+  alt: Куклы Gotz
   image: /wp-content/uploads/2023/08/doll-1.jpg
 date: "2023-08-13T09:42:20+00:00"
-guid: https://www.adora.ru/?p=634
 tag:
   - германия
   - коллекционные-игрушки
@@ -14,6 +13,8 @@ tag:
   - мир-игрушек
   - современные-игрушки
 title: Куклы Gotz
+description: Куклы Gotz
+keywords: Куклы Gotz
 url: /kukly-gotz/
 
 ---

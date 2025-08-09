@@ -3,13 +3,14 @@ author: morava
 category:
   - игрушки
 cover:
-  alt: Funko Pop
+  alt: Коллекционные фигурки Funko Pop
   image: /wp-content/uploads/2023/09/funko-pop.webp
 date: "2023-09-19T10:21:02+00:00"
-guid: https://www.adora.ru/?p=2315
 tag:
   - коллекционные-игрушки
 title: Коллекционные фигурки Funko Pop
+description: Коллекционные фигурки Funko Pop
+keywords: Коллекционные фигурки Funko Pop
 url: /funko-pop/
 
 ---

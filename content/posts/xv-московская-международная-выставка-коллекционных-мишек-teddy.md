@@ -3,13 +3,14 @@ author: olomouc
 category:
   - выставки-кукол-и-игрушек
 cover:
-  alt: f9bea27646a047238dc07045fd31d4c0_00000
+  alt: XV Московская международная выставка коллекционных мишек Teddy
   image: /wp-content/uploads/2023/09/f9bea27646a047238dc07045fd31d4c0_00000.jpg
 date: "2023-09-12T06:44:05+00:00"
-guid: https://www.adora.ru/?p=2045
 tag:
   - коллекционные-игрушки
 title: XV Московская международная выставка коллекционных мишек Teddy
+description: XV Московская международная выставка коллекционных мишек Teddy
+keywords: XV Московская международная выставка коллекционных мишек Teddy
 url: /xv-moskovskaya-mezhdunarodnaya-vystavka-kollekczionnyh-mishek-teddy/
 
 ---

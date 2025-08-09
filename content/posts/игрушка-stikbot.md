@@ -3,16 +3,17 @@ author: morava
 category:
   - куклы
 cover:
-  alt: Стикботы – это специальные фигурки с присосками на ручках и ножках и с подвижными конечностями
+  alt: Игрушка STIKBOT
   image: /wp-content/uploads/2023/08/stikbot.jpg
 date: "2023-08-15T11:32:51+00:00"
-guid: https://www.adora.ru/?p=750
 tag:
   - игрушки-для-девочек
   - игрушки-для-мальчиков
   - конструктор
   - современные-игрушки
 title: Игрушка STIKBOT
+description: Игрушка STIKBOT
+keywords: Игрушка STIKBOT
 url: /igrushki-stikbot/
 
 ---

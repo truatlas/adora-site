@@ -3,11 +3,12 @@ author: morava
 category:
   - куклы
 cover:
-  alt: Karen Scott
+  alt: Куклы Karen Scott
   image: /wp-content/uploads/2023/09/karen-scott.webp
 date: "2023-09-11T14:39:07+00:00"
-guid: https://www.adora.ru/?p=2025
 title: Куклы Karen Scott
+description: Куклы Karen Scott
+keywords: Куклы Karen Scott
 url: /karen-scott/
 
 ---

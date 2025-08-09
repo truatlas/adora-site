@@ -3,11 +3,12 @@ author: olomouc
 category:
   - куклы
 cover:
-  alt: Mikuláš Reda
+  alt: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'
   image: /wp-content/uploads/2023/09/mikulas-reda.webp
 date: "2023-09-16T13:39:20+00:00"
-guid: https://www.adora.ru/?p=2217
 title: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'
+description: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'
+keywords: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'
 url: /master-izgotovitel-kukol-mikulas-reda-iskusstvo-zaklyuchennoe-v-dereve-i-tkani/
 
 ---

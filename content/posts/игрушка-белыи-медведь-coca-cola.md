@@ -3,11 +3,12 @@ author: morava
 category:
   - игрушки
 cover:
-  alt: Белый медведь Coca-Cola
+  alt: Игрушка Белый медведь Coca-Cola
   image: /wp-content/uploads/2023/09/bear.jpg
 date: "2023-09-02T08:00:18+00:00"
-guid: https://www.adora.ru/?p=1738
 title: Игрушка Белый медведь Coca-Cola
+description: Игрушка Белый медведь Coca-Cola
+keywords: Игрушка Белый медведь Coca-Cola
 url: /coca-cola/
 
 ---

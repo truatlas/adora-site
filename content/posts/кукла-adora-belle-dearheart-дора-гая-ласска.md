@@ -3,13 +3,14 @@ author: olomouc
 category:
   - куклы
 cover:
-  alt: Adora Belle Dearheart
+  alt: Кукла Adora Belle Dearheart/Дора Гая Ласска
   image: /wp-content/uploads/2023/09/adora-belle-dearheart-jpg.webp
 date: "2023-09-27T05:48:38+00:00"
-guid: https://www.adora.ru/?p=2760
 tag:
   - адора
 title: Кукла Adora Belle Dearheart/Дора Гая Ласска
+description: Кукла Adora Belle Dearheart/Дора Гая Ласска
+keywords: Кукла Adora Belle Dearheart/Дора Гая Ласска
 url: /adora-belle-dearheart/
 
 ---

@@ -3,13 +3,14 @@ author: malta
 category:
   - игрушки
 cover:
-  alt: play_doh
+  alt: Пластилин Play-Doh
   image: /wp-content/uploads/2023/09/play_doh.jpg
 date: "2023-09-18T17:28:10+00:00"
-guid: https://www.adora.ru/?p=2297
 tag:
   - развитие-моторики
 title: Пластилин Play-Doh
+description: Пластилин Play-Doh
+keywords: Пластилин Play-Doh
 url: /play-doh/
 
 ---

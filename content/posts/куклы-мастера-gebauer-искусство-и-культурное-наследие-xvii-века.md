@@ -3,11 +3,12 @@ author: malta
 category:
   - куклы
 cover:
-  alt: немецкие куклы Gebauer
+  alt: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'
   image: /wp-content/uploads/2023/09/gebauer.jpg
 date: "2023-09-08T06:40:00+00:00"
-guid: https://www.adora.ru/?p=1907
 title: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'
+description: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'
+keywords: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'
 url: /kukly-mastera-gebauer-iskusstvo-i-kulturnoe-nasledie-xvii-veka/
 
 ---

@@ -3,13 +3,14 @@ author: morava
 category:
   - адора
 cover:
-  alt: Adora Blue
+  alt: Шалфей пышный «Adora Blue»
   image: /wp-content/uploads/2023/09/adora-blue.webp
 date: "2023-09-21T16:37:37+00:00"
-guid: https://www.adora.ru/?p=1917
 tag:
   - адора
 title: Шалфей пышный «Adora Blue»
+description: Шалфей пышный «Adora Blue»
+keywords: Шалфей пышный «Adora Blue»
 url: /adora-blue/
 
 ---

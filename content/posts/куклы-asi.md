@@ -3,10 +3,9 @@ author: morava
 category:
   - куклы
 cover:
-  alt: коллекционная испанская кукла ASI
+  alt: Куклы ASI
   image: /wp-content/uploads/2023/08/asi.jpg
 date: "2023-08-13T18:07:52+00:00"
-guid: https://www.adora.ru/?p=671
 tag:
   - винтажные-игрушки
   - испания
@@ -15,6 +14,8 @@ tag:
   - связь-времен
   - современные-игрушки
 title: Куклы ASI
+description: Куклы ASI
+keywords: Куклы ASI
 url: /kukly-asi/
 
 ---

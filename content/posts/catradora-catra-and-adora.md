@@ -3,11 +3,12 @@ author: morava
 category:
   - адора
 cover:
-  alt: Catradora
+  alt: Catradora - Catra and Adora
   image: /wp-content/uploads/2023/09/catradora.webp
 date: "2023-09-10T17:50:06+00:00"
-guid: https://www.adora.ru/?p=2004
 title: Catradora - Catra and Adora
+description: Catradora - Catra and Adora
+keywords: Catradora - Catra and Adora
 url: /catradora/
 
 ---

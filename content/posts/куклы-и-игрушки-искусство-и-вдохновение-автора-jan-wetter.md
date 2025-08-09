@@ -3,13 +3,14 @@ author: olomouc
 category:
   - игрушки
 cover:
-  alt: Jan Wetter
+  alt: 'Куклы и игрушки: искусство и вдохновение автора Jan Wetter'
   image: /wp-content/uploads/2023/09/jan-wetter.webp
 date: "2023-09-16T13:41:16+00:00"
-guid: https://www.adora.ru/?p=2225
 tag:
   - центральная-европа
 title: 'Куклы и игрушки: искусство и вдохновение автора Jan Wetter'
+description: 'Куклы и игрушки: искусство и вдохновение автора Jan Wetter'
+keywords: 'Куклы и игрушки: искусство и вдохновение автора Jan Wetter'
 url: /kukly-i-igrushki-iskusstvo-i-vdohnovenie-avtora-jan-wetter/
 
 ---

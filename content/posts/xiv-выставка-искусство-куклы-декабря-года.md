@@ -3,13 +3,14 @@ author: olomouc
 category:
   - выставки-кукол-и-игрушек
 cover:
-  alt: искусство куклы
+  alt: XIV выставка Искусство Куклы 8-10 декабря 2023 года
   image: /wp-content/uploads/2023/09/iskusstvo-kukly.webp
 date: "2023-09-12T10:17:16+00:00"
-guid: https://www.adora.ru/?p=2048
 tag:
   - винтажные-игрушки
 title: XIV выставка Искусство Куклы 8-10 декабря 2023 года
+description: XIV выставка Искусство Куклы 8-10 декабря 2023 года
+keywords: XIV выставка Искусство Куклы 8-10 декабря 2023 года
 url: /xiv-vystavka-iskusstvo-kukly-8-10-dekabrya-2023-goda/
 
 ---

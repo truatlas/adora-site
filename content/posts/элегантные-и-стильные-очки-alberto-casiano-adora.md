@@ -3,15 +3,16 @@ author: olomouc
 category:
   - адора
 cover:
-  alt: Adora
+  alt: Элегантные и Стильные Очки Alberto Casiano Adora
   image: /wp-content/uploads/2023/09/adora.webp
 date: "2023-09-04T10:31:22+00:00"
-guid: https://www.adora.ru/?p=1770
 tag:
   - адора
   - культурное-достояние
   - сделано-руками
 title: Элегантные и Стильные Очки Alberto Casiano Adora
+description: Элегантные и Стильные Очки Alberto Casiano Adora
+keywords: Элегантные и Стильные Очки Alberto Casiano Adora
 url: /adora_glasses/
 
 ---

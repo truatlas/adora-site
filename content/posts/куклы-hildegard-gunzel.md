@@ -3,10 +3,9 @@ author: morava
 category:
   - куклы
 cover:
-  alt: коллекционные куклы Hildegard Gunzel
+  alt: Куклы Hildegard Günzel
   image: /wp-content/uploads/2023/08/hildegard-gunzel.jpg
 date: "2023-08-15T15:23:02+00:00"
-guid: https://www.adora.ru/?p=766
 tag:
   - европа
   - коллекционные-игрушки
@@ -16,6 +15,8 @@ tag:
   - сша
   - фарфор
 title: Куклы Hildegard Günzel
+description: Куклы Hildegard Günzel
+keywords: Куклы Hildegard Günzel
 url: /kukly-hildegard-gunzel/
 
 ---

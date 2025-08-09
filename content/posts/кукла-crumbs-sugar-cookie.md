@@ -3,16 +3,17 @@ author: morava
 category:
   - куклы
 cover:
-  alt: Lalaloopsy Crumbs Sugar Cookie
+  alt: Кукла Crumbs Sugar Cookie
   image: /wp-content/uploads/2023/08/lalaloopsy.webp
 date: "2023-08-26T11:23:01+00:00"
-guid: https://www.adora.ru/?p=481
 tag:
   - коллекционные-игрушки
   - сделано-руками
   - современные-игрушки
   - сша
 title: Кукла Crumbs Sugar Cookie
+description: Кукла Crumbs Sugar Cookie
+keywords: Кукла Crumbs Sugar Cookie
 url: /kukla_crumbs_sugar_cookie/
 
 ---
