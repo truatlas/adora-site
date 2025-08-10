@@ -13,7 +13,7 @@ params:
   disableThemeToggle: true
   showShareButtons: false
   showReadingTime: true
-  showToc: true
+  showToc: false
   TocOpen: true
   showBreadCrumbs: true
   showCodeCopyButtons: true
@@ -30,7 +30,11 @@ params:
     yandex:
       SiteVerificationTag: 'f72e4d0f32be4eb0'
   assets:
-    favicon: /favicon.ico
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-96x96.png"
+    favicon32x32: "/favicon-96x96.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon.svg"
     disableHLJS: true
   cover:
     responsiveImages: true
