@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: 'Куклы Josef Dosedl: Искусство и Долгая История'
-  image: /wp-content/uploads/2023/09/josef-dosedl.webp
+  image: 2023/09/josef-dosedl.webp
 date: "2023-09-09T11:26:34+00:00"
 title: 'Куклы Josef Dosedl: Искусство и Долгая История'
 description: 'Куклы Josef Dosedl: Искусство и Долгая История'

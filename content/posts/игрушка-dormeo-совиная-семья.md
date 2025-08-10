@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Игрушка Dormeo Совиная семья
-  image: /wp-content/uploads/2023/08/sova.jpg
+  image: 2023/08/sova.jpg
 date: "2023-08-20T13:05:47+00:00"
 tag:
   - игрушки-для-детей

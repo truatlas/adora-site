@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'
-  image: /wp-content/uploads/2023/09/mikulas-reda.webp
+  image: 2023/09/mikulas-reda.webp
 date: "2023-09-16T13:39:20+00:00"
 title: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'
 description: 'Мастер изготовитель кукол Mikuláš Reda: Искусство, Заключенное в Дереве и Ткани'

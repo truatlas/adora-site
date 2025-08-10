@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Фигурка-трансформер Bakugan
-  image: /wp-content/uploads/2023/09/bakugan.jpg
+  image: 2023/09/bakugan.jpg
 date: "2023-09-04T15:04:01+00:00"
 tag:
   - игрушки-для-детей

@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Куклы Hildegard Günzel
-  image: /wp-content/uploads/2023/08/hildegard-gunzel.jpg
+  image: 2023/08/hildegard-gunzel.jpg
 date: "2023-08-15T15:23:02+00:00"
 tag:
   - европа

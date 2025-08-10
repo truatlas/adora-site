@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Куклы Gotz
-  image: /wp-content/uploads/2023/08/doll-1.jpg
+  image: 2023/08/doll-1.jpg
 date: "2023-08-13T09:42:20+00:00"
 tag:
   - германия

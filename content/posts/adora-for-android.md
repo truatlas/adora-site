@@ -5,7 +5,7 @@ category:
   - куклы
 cover:
   alt: Adora for Android
-  image: /wp-content/uploads/2023/09/eifel-adora-jpg.webp
+  image: 2023/09/eifel-adora-jpg.webp
 date: "2023-09-23T16:50:43+00:00"
 tag:
   - адора

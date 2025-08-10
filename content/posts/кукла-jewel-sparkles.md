@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Кукла Jewel Sparkles
-  image: /wp-content/uploads/2023/09/lalaloopsy-jewel-sparkles-jpg.webp
+  image: 2023/09/lalaloopsy-jewel-sparkles-jpg.webp
 date: "2023-09-25T11:59:46+00:00"
 tag:
   - коллекционные-игрушки

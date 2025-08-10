@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Кукла Adora Belle Dearheart/Дора Гая Ласска
-  image: /wp-content/uploads/2023/09/adora-belle-dearheart-jpg.webp
+  image: 2023/09/adora-belle-dearheart-jpg.webp
 date: "2023-09-27T05:48:38+00:00"
 tag:
   - адора

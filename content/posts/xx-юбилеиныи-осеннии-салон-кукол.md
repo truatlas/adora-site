@@ -4,7 +4,7 @@ category:
   - выставки-кукол-и-игрушек
 cover:
   alt: XX ЮБИЛЕЙНЫЙ ОСЕННИЙ САЛОН КУКОЛ
-  image: /wp-content/uploads/2023/09/doll-1-jpg.webp
+  image: 2023/09/doll-1-jpg.webp
 date: "2023-09-27T17:44:01+00:00"
 tag:
   - художественные-куклы

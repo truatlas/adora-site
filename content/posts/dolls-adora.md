@@ -5,7 +5,7 @@ category:
   - куклы
 cover:
   alt: Dolls ADORA
-  image: /wp-content/uploads/2023/08/adora-1.jpg
+  image: 2023/08/adora-1.jpg
 date: "2023-08-12T15:56:28+00:00"
 tag:
   - адора

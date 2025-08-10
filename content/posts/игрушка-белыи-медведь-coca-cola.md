@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Игрушка Белый медведь Coca-Cola
-  image: /wp-content/uploads/2023/09/bear.jpg
+  image: 2023/09/bear.jpg
 date: "2023-09-02T08:00:18+00:00"
 title: Игрушка Белый медведь Coca-Cola
 description: Игрушка Белый медведь Coca-Cola

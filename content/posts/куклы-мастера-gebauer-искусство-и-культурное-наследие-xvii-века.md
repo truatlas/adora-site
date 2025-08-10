@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'
-  image: /wp-content/uploads/2023/09/gebauer.jpg
+  image: 2023/09/gebauer.jpg
 date: "2023-09-08T06:40:00+00:00"
 title: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'
 description: 'Куклы мастера Gebaüer: Искусство и Культурное Наследие XVII века'

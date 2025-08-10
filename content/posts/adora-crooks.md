@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Adora Crooks
-  image: /wp-content/uploads/2023/09/adora-crooks.webp
+  image: 2023/09/adora-crooks.webp
 date: "2023-09-12T09:45:30+00:00"
 tag:
   - фарфор

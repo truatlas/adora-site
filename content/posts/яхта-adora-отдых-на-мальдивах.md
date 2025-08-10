@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Яхта Adora - отдых на Мальдивах
-  image: /wp-content/uploads/2023/09/adora-yacht.webp
+  image: 2023/09/adora-yacht.webp
 date: "2023-09-01T14:57:39+00:00"
 tag:
   - адора

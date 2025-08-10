@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Пластилин Play-Doh
-  image: /wp-content/uploads/2023/09/play_doh.jpg
+  image: 2023/09/play_doh.jpg
 date: "2023-09-18T17:28:10+00:00"
 tag:
   - развитие-моторики

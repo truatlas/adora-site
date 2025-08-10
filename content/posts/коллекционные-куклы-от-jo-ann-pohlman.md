@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Коллекционные куклы от Jo Ann Pohlman
-  image: /wp-content/uploads/2023/09/joann-polman.webp
+  image: 2023/09/joann-polman.webp
 date: "2023-09-11T14:15:44+00:00"
 title: Коллекционные куклы от Jo Ann Pohlman
 description: Коллекционные куклы от Jo Ann Pohlman

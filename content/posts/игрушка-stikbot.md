@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Игрушка STIKBOT
-  image: /wp-content/uploads/2023/08/stikbot.jpg
+  image: 2023/08/stikbot.jpg
 date: "2023-08-15T11:32:51+00:00"
 tag:
   - игрушки-для-девочек

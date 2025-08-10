@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Куклы ASI
-  image: /wp-content/uploads/2023/08/asi.jpg
+  image: 2023/08/asi.jpg
 date: "2023-08-13T18:07:52+00:00"
 tag:
   - винтажные-игрушки

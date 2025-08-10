@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Реборн Jessica Schenk
-  image: /wp-content/uploads/2023/09/jessica-schenk.webp
+  image: 2023/09/jessica-schenk.webp
 date: "2023-09-11T14:30:04+00:00"
 title: Реборн Jessica Schenk
 description: Реборн Jessica Schenk

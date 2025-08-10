@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Игрушка Машинка-трансформер Screechers Wild Дикие Скричеры
-  image: /wp-content/uploads/2023/09/screechers-wild.jpg
+  image: 2023/09/screechers-wild.jpg
 date: "2023-09-03T13:00:50+00:00"
 tag:
   - аниме

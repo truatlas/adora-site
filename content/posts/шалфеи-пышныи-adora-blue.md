@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Шалфей пышный «Adora Blue»
-  image: /wp-content/uploads/2023/09/adora-blue.webp
+  image: 2023/09/adora-blue.webp
 date: "2023-09-21T16:37:37+00:00"
 tag:
   - адора

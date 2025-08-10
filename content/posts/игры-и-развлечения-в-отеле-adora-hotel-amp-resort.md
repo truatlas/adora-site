@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Игры и Развлечения в Отеле Adora Hotel &amp; Resort
-  image: /wp-content/uploads/2023/08/adora-hotel-resort.jpg
+  image: 2023/08/adora-hotel-resort.jpg
 date: "2023-08-19T18:26:12+00:00"
 tag:
   - адора

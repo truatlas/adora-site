@@ -5,7 +5,7 @@ category:
   - куклы
 cover:
   alt: Кофе для игрушек Adora
-  image: /wp-content/uploads/2023/09/two-dolls-at-the-table.webp
+  image: 2023/09/two-dolls-at-the-table.webp
 date: "2023-09-05T18:25:03+00:00"
 title: Кофе для игрушек Adora
 description: Кофе для игрушек Adora

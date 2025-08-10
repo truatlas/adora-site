@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Элегантные и Стильные Очки Alberto Casiano Adora
-  image: /wp-content/uploads/2023/09/adora.webp
+  image: 2023/09/adora.webp
 date: "2023-09-04T10:31:22+00:00"
 tag:
   - адора

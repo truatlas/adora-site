@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Куклы Karen Scott
-  image: /wp-content/uploads/2023/09/karen-scott.webp
+  image: 2023/09/karen-scott.webp
 date: "2023-09-11T14:39:07+00:00"
 title: Куклы Karen Scott
 description: Куклы Karen Scott

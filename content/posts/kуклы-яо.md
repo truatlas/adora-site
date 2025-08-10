@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Kуклы Яо
-  image: /wp-content/uploads/2023/08/yao-dolls.jpg
+  image: 2023/08/yao-dolls.jpg
 date: "2023-08-18T13:31:49+00:00"
 tag:
   - вьетнам

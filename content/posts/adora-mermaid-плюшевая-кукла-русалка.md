@@ -5,7 +5,7 @@ category:
   - куклы
 cover:
   alt: Adora Mermaid -  плюшевая кукла русалка
-  image: /wp-content/uploads/2023/09/adora-mermaid.webp
+  image: 2023/09/adora-mermaid.webp
 date: "2023-09-11T06:50:07+00:00"
 tag:
   - адора

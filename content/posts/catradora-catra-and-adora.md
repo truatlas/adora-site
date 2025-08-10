@@ -4,7 +4,7 @@ category:
   - адора
 cover:
   alt: Catradora - Catra and Adora
-  image: /wp-content/uploads/2023/09/catradora.webp
+  image: 2023/09/catradora.webp
 date: "2023-09-10T17:50:06+00:00"
 title: Catradora - Catra and Adora
 description: Catradora - Catra and Adora

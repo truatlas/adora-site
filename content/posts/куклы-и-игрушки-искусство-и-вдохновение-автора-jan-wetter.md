@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: 'Куклы и игрушки: искусство и вдохновение автора Jan Wetter'
-  image: /wp-content/uploads/2023/09/jan-wetter.webp
+  image: 2023/09/jan-wetter.webp
 date: "2023-09-16T13:41:16+00:00"
 tag:
   - центральная-европа

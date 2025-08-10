@@ -4,7 +4,7 @@ category:
   - выставки-кукол-и-игрушек
 cover:
   alt: XIV выставка Искусство Куклы 8-10 декабря 2023 года
-  image: /wp-content/uploads/2023/09/iskusstvo-kukly.webp
+  image: 2023/09/iskusstvo-kukly.webp
 date: "2023-09-12T10:17:16+00:00"
 tag:
   - винтажные-игрушки

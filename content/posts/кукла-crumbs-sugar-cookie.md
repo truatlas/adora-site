@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Кукла Crumbs Sugar Cookie
-  image: /wp-content/uploads/2023/08/lalaloopsy.webp
+  image: 2023/08/lalaloopsy.webp
 date: "2023-08-26T11:23:01+00:00"
 tag:
   - коллекционные-игрушки

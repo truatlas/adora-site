@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Lego человечки
-  image: /wp-content/uploads/2023/09/lego.jpg
+  image: 2023/09/lego.jpg
 date: "2023-09-12T11:28:21+00:00"
 tag:
   - конструктор

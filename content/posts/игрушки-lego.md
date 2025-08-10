@@ -4,7 +4,7 @@ category:
   - игрушки
 cover:
   alt: Игрушки Lego
-  image: /wp-content/uploads/2023/08/lego.jpg
+  image: 2023/08/lego.jpg
 date: "2023-08-03T22:51:11+00:00"
 tag:
   - коллекционные-игрушки

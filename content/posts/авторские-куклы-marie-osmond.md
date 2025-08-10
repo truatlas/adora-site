@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Авторские куклы Marie Osmond
-  image: /wp-content/uploads/2023/09/marie-osmond.webp
+  image: 2023/09/marie-osmond.webp
 date: "2023-09-11T14:04:49+00:00"
 title: Авторские куклы Marie Osmond
 description: Авторские куклы Marie Osmond

@@ -4,7 +4,7 @@ category:
   - куклы
 cover:
   alt: Kуклы Юракаре
-  image: /wp-content/uploads/2023/08/yuracare-dolls-1.jpg
+  image: 2023/08/yuracare-dolls-1.jpg
 date: "2023-08-23T08:59:16+00:00"
 title: Kуклы Юракаре
 description: Kуклы Юракаре
