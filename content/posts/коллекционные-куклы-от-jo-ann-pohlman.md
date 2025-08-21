@@ -1,17 +1,23 @@
 ---
 author: morava
 category:
-  - куклы
+- куклы
 cover:
   alt: Коллекционные куклы от Jo Ann Pohlman
   image: 2023/09/joann-polman.webp
-date: "2023-09-11T14:15:44+00:00"
+date: '2023-09-11T14:15:44+00:00'
+description: Сегодня расскажу вам о талантливой мастерице кукольного искусства, Jo
+  Ann Pohlman, и её удивительной кукле "Betsy Bubbles", выпускаемой под брендом "Marie
+  Osmond Dolls". Jo Ann Pohlman - это известное...
+keywords: Коллекционные куклы от Jo Ann Pohlman, куклы, bubbles, ann, pohlman, marie,
+  osmond, dolls, это, мир, besty, кукольного, искусства, кукле, betsy, коллекции
+summary: Сегодня расскажу вам о талантливой мастерице кукольного искусства, Jo Ann
+  Pohlman, и её удивительной кукле "Betsy Bubbles", выпускаемой под брендом "Marie
+  Osmond Dolls". Jo Ann Pohlman - это известное...
 title: Коллекционные куклы от Jo Ann Pohlman
-description: Коллекционные куклы от Jo Ann Pohlman
-keywords: Коллекционные куклы от Jo Ann Pohlman
 url: /jo-ann-pohlman/
-
 ---
+
 Сегодня расскажу вам о талантливой мастерице кукольного искусства, Jo Ann Pohlman, и её удивительной кукле "Betsy Bubbles", выпускаемой под брендом "Marie Osmond Dolls".
 
 Jo Ann Pohlman - это известное имя в мире кукольного искусства, и её куклы из коллекции "Marie Osmond Dolls" завоевали множество сердец коллекционеров. Эта коллекция обогащает мир кукольных искусств своим уникальным стилем и великолепной проработкой.

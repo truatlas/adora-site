@@ -1,17 +1,23 @@
 ---
 author: morava
 category:
-  - адора
+- адора
 cover:
   alt: Adora + Catra = Catradora
   image: 2023/09/adora-catra-catradora-.webp
-date: "2023-09-06T08:05:58+00:00"
+date: '2023-09-06T08:05:58+00:00'
+description: 'In the fairy-tale kingdom of Eternia, there was a legend about two powerful
+  princesses: Adora and Catra. They both had unique powers and served their kingdom
+  as protectors, but their relationship was ...'
+keywords: Adora + Catra = Catradora, and, the, they, their, was, adora, eternia, catra,
+  that, were, together, kingdom, but, she, other
+summary: 'In the fairy-tale kingdom of Eternia, there was a legend about two powerful
+  princesses: Adora and Catra. They both had unique powers and served their kingdom
+  as protectors, but their relationship was ...'
 title: Adora + Catra = Catradora
-description: Adora + Catra = Catradora
-keywords: Adora + Catra = Catradora
 url: /adora-catra-catradora/
-
 ---
+
 In the fairy-tale kingdom of Eternia, there was a legend about two powerful princesses: Adora and Catra. They both had unique powers and served their kingdom as protectors, but their relationship was complex and mysterious.
 
 Adora was a brave and courageous warrior. She was known for her prowess in combat and her ability to transform into a powerful warrior named She-Ra. Adora believed that only strength and kindness would save Eternia from evil.
