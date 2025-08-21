@@ -6,14 +6,9 @@ cover:
   alt: Adora + Catra = Catradora
   image: 2023/09/adora-catra-catradora-.webp
 date: '2023-09-06T08:05:58+00:00'
-description: 'In the fairy-tale kingdom of Eternia, there was a legend about two powerful
-  princesses: Adora and Catra. They both had unique powers and served their kingdom
-  as protectors, but their relationship was ...'
-keywords: Adora + Catra = Catradora, and, the, they, their, was, adora, eternia, catra,
-  that, were, together, kingdom, but, she, other
-summary: 'In the fairy-tale kingdom of Eternia, there was a legend about two powerful
-  princesses: Adora and Catra. They both had unique powers and served their kingdom
-  as protectors, but their relationship was ...'
+description: 'In the fairy-tale kingdom of Eternia, there was a legend about two powerful princesses: Adora and Catra. They both had unique powers and served their...'
+keywords: Adora  Catra  Catradora, and, the, they, their, was, adora, eternia, catra, that, were, together, kingdom, but, she, other
+summary: 'In the fairy-tale kingdom of Eternia, there was a legend about two powerful princesses: Adora and Catra. They both had unique powers and served their...'
 title: Adora + Catra = Catradora
 url: /adora-catra-catradora/
 ---
